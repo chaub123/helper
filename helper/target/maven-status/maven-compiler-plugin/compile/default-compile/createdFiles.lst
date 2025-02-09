@@ -1,0 +1,8 @@
+com\chaub\marksix\MarkSixHelper.class
+com\chaub\userdata\EmailHelper.class
+com\chaub\Main.class
+com\chaub\userdata\NameHelper.class
+com\chaub\userdata\PhoneHelper.class
+com\chaub\exception\InvalidInputException.class
+com\chaub\password\PasswordHelper.class
+com\chaub\userdata\AddressHelper.class
